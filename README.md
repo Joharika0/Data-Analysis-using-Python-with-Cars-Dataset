@@ -60,8 +60,8 @@ This project demonstrates practical data analysis skills applied to a Cars datas
 ### Option 2: Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Joharika0/Data-Analysis-using-Python-with-Cars-Dataset.git
+cd Data-Analysis-using-Python-with-Cars-Dataset
 
 # Install dependencies
 pip install pandas
