@@ -80,9 +80,9 @@ jupyter notebook Data_Analysis_Project_using_Python_2.ipynb
 ## 📁 Repository Structure
 
 ```
-📦 your-repo-name
+📦 Data-Analysis-using-Python-with-Cars-Dataset
  ┣ 📓 Data_Analysis_Project_using_Python_2.ipynb   # Main notebook
- ┣ 📄 Cars Data1.csv                                # Dataset
+ ┣ 📄 2. Cars Data1.csv                                # Dataset
  ┗ 📄 README.md                                     # Project documentation
 ```
 
